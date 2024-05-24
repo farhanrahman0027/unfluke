@@ -848,7 +848,7 @@ button.bg-danger:hover {
     -webkit-justify-content: space-between;
     -ms-flex-pack: space-between;
     position: relative;
-    height: 70px;
+    height: 95px;
     padding: 0 20px;
     margin-bottom: 0;
     transition-duration: 0.4s;
