@@ -153,13 +153,13 @@ export const Home = () => {
         {/* Share knowledge */}
         <section className="section share-knowledge">
           <div className="container">
-            <div className="row">
+            <div className="row flex-md-row flex-column-reverse">
               <div className="col-md-6">
                 <div className="knowledge-img aos" data-aos="fade-up">
                   <img src={Section1} alt="" className="img-fluid" />
                 </div>
               </div>
-              <div className="col-md-6 d-flex align-items-center">
+              <div className="col-md-6 d-flex align-items-center ">
                 <div className="join-mentor aos" data-aos="fade-up">
                   <h2>HISTORICAL INTRADAY CHARTS</h2>
                   <p>
@@ -216,7 +216,7 @@ export const Home = () => {
         </section>
         <section className="section share-knowledge">
           <div className="container">
-            <div className="row">
+            <div className="row flex-md-row flex-column-reverse">
               <div className="col-md-6">
                 <div className="knowledge-img aos" data-aos="fade-up">
                   <img src={Section3} alt="" className="img-fluid" />
