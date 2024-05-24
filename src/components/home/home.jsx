@@ -222,7 +222,7 @@ export const Home = () => {
                   <img src={Section3} alt="" className="img-fluid" />
                 </div>
               </div>
-              <div className="col-md-6 d-flex align-items-center">
+              <div className="col-md-6 d-flex align-items-center mb-md-0 mb-5 mt-md-0 mt-3">
                 <div className="join-mentor aos" data-aos="fade-up">
                   <h2>BACKTEST STRATEGIES</h2>
                 </div>
@@ -236,7 +236,7 @@ export const Home = () => {
         >
           <div className="container">
             <div className="row">
-              <div className="col-md-6 d-flex align-items-center">
+              <div className="col-md-6 d-flex align-items-center mb-md-0 mb-5 mt-md-0 mt-3">
                 <div className="join-mentor aos" data-aos="fade-up">
                   <h2>ADVANCE BACKTEST STRATEGIES</h2>
                 </div>

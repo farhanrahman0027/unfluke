@@ -4,8 +4,8 @@ import { Icon19, Icon20, Icon21, logo } from "../imagepath";
 
 const Footer = () => {
   return (
-    <footer className="footer row m-0 p-0 pt-3 pb-3 justify-content-md-between justify-content-center align-items-center flex-md-row flex-col" style={{backgroundColor:'rgb(245 244 244)'}}>
-      <div className="w-auto ms-2">
+    <footer className="footer row m-0 p-0 pt-md-3 pb-md-3 pt-5 pb-5 justify-content-md-between justify-content-center align-items-center flex-md-row flex-col" style={{backgroundColor:'rgb(245 244 244)'}}>
+      <div className="w-auto ms-2 mt-md-0 mb-md-0 mt-3 mb-5">
         <p className="m-0 p-0 text-secondary w-auto">
           2024 © Unfluke. All rights reserved.
         </p>
