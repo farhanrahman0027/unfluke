@@ -7,6 +7,7 @@ import "./assets/plugins/fontawesome/css/fontawesome.min.css";
 import "./assets/plugins/fontawesome/css/all.min.css";
 //CSS
 import "./assets/css/style.css";
+import './assets/css/styleCstm.scss';
 import Footer from './components/footer/footer';
 import Home from './components/home/home';
 import AboutUs from './components/about-us/aboutUs';

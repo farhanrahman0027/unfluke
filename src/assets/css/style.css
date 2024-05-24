@@ -2513,7 +2513,7 @@ html.menu-opened body {
 }
 .share-knowledge {
 	padding: 60px 0px;
-	background-image: url(../img/bg-banner-01.png);
+	/* background-image: url(../img/bg-banner-01.png); */
     background-repeat: no-repeat;
     background-position: center;
 	background-size: cover;

@@ -1,6 +1,6 @@
 {
   "name": "unfluke-frontend",
-  "homepage":"https://farhanrahman0027.github.io/unfluke/",
+  "homepage": "https://farhanrahman0027.github.io/unfluke/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -45,6 +45,7 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.6",
     "gh-pages": "^6.1.1",
+    "sass": "^1.77.2",
     "vite": "^5.2.0"
   }
 }
