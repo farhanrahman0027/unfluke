@@ -10,6 +10,7 @@ const Career=()=>{
             </div>
           </div>
         </div>
+        <div className="container"></div>
       </div>
     )
 }
