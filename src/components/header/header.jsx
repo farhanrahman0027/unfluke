@@ -95,7 +95,7 @@ const Header = () => {
                 <Link
                   id="menu_close"
                   className="menu-close"
-                  to="/"
+                  
                   onClick={hideMobileMenu}
                 >
                   <i className="fas fa-times" />
