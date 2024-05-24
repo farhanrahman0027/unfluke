@@ -76,7 +76,7 @@ const Header = () => {
         >
           <div className="container">
             <div className="navbar-header">
-              <Link id="mobile_btn" to="/" onClick={openMobileMenu}>
+              <Link id="mobile_btn"  onClick={openMobileMenu}>
                 <span className="bar-icon">
                   <span />
                   <span />
